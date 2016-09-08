@@ -1,2 +1,2 @@
-# my-world
-It's used to share some of my ideas, everybody are welcomed to discuss and give suggestions.
+# DynamicCurve
+This is an android project used to show the volumn of sound recorded by android devices.
